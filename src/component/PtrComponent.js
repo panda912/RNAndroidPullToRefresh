@@ -36,7 +36,7 @@ export default class PtrComponent extends Component {
     }
 
     /**
-     * 自动刷新
+     * 刷新完成
      */
     refreshComplete() {
         UIManager.dispatchViewManagerCommand(
